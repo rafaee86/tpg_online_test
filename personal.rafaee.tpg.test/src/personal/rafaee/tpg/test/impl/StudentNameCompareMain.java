@@ -79,7 +79,7 @@ public class StudentNameCompareMain {
 				message += "\n"+timing.process();
 				JOptionPane.showMessageDialog(null, message);
 			} catch (IOException e) {
-				System.out.println("Error in reading file.");
+				System.out.println("Error in reading file..");
 			}
 		  }
 			
